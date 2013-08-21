@@ -1,0 +1,4 @@
+MathCryptoGamal
+===============
+
+Gamal's scheme
